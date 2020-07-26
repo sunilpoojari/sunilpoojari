@@ -18,7 +18,7 @@
 
 ### I work on Web Projects
 
-<img align='right' href="#" src="https://github-readme-stats.vercel.app/api?username=sunilpoojari&show_icons=true&theme=vue">
+<img align='right' href="#" src="https://github-readme-stats.vercel.app/api?username=sunilpoojari&show_icons=true">
 
 The Web Technologies I am familier with are:
 
