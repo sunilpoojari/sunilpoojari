@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/sunilpoojaridev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/sunilpoojari91" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-<!-- <a>
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)](https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile) <a/> -->
-
 </div>
 
 ### I work on Web Projects
@@ -22,25 +19,36 @@
 
 The Web Technologies I am familier with are:
 
-- FrontEnd
-
-  - HTML, CSS <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20" align="center"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="20" align="center">
-  - ReactJs <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" align="center">
-  - Tailwind CSS
-  - Bootstrap <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="20" align="center">
-
-* Back End
+- Back End <font color="grey">
+  (Technologies & Libraries)
+  </font>
 
   - JavaScript <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20" align="center">
   - NodeJs <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="20" align="center">
   - Express <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="20" align="center">
+  - MongoDB <font color="grey">
+    (Not Proficient)
+    </font>
+  - SQL <font color="grey">
+    (Not Proficient)
+    </font>
 
-* Other Programming Languages
+- Front End <font color="grey">
+  (Technologies & Libraries)
+  </font>
 
-  - Java <img src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" width="20" align="center">
-  - Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
-  - C#
+  - HTML, CSS <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20" align="center"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="20" align="center">
+  - ReactJs <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" align="center">
+  - EJS
+  - Tailwind CSS
+  - Bootstrap <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="20" align="center">
 
+- Programming Concepts
+  - Object Oriented Programming
+  - Data Structures
+  - System Design
+
+<br>
 <p align="center">
 
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
@@ -48,8 +56,9 @@ The Web Technologies I am familier with are:
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+
+</p>
+<p align="center" style="margin-top:-1em;">
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50">
-  
 </p>
